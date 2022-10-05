@@ -1,4 +1,3 @@
-# COMS 4995 Engineering Software-as-a-Service Project
 # LionHelp - A Platform for Convenient Help Seeking
 
 ## Team member names and UNIs
