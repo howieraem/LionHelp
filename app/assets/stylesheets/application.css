@@ -1,0 +1,79 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+.navbar-dark{
+  background:rgba(0, 51, 160, 0.95);
+  font-family: Arial Black;
+  color: white;
+}
+.lionhelp{
+  font-family: "Copperplate", "Papyrus", sans-serif;
+  font-size: 25px;
+  display:inline;
+}
+.button-mr{
+  margin-right: 8px;
+}
+
+.seperation {
+  color: #d7d7d7;
+}
+
+.search-bar {
+  width: 110%;
+  box-sizing: border-box;
+  border: 2px solid #D7D7D7;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: white;
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+  margin-top: 18px;
+  text-align: left; 
+}
+
+.icon {
+  color:#AAAAAA; 
+  margin-top:30px;
+  position: absolute;
+  margin-left: 10px;
+}
+
+.searchButton {
+  margin-left: 5px;
+  border-radius: 5px;
+  opacity: 0.57;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border: 0;
+  font-family: Arial Black;
+  margin-top: 19px;
+  width: 100%;
+}
+
+

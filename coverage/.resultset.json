@@ -1,0 +1,1556 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/homepage_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/posts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          5,
+          5,
+          5,
+          5,
+          1,
+          null,
+          5,
+          1,
+          null,
+          5,
+          5,
+          1,
+          null,
+          5,
+          1,
+          null,
+          5,
+          9,
+          null,
+          5,
+          5,
+          5,
+          1,
+          1,
+          null,
+          5,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          3,
+          null,
+          1,
+          null,
+          3,
+          2,
+          1,
+          null,
+          2,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          4,
+          null,
+          1,
+          null,
+          4,
+          3,
+          1,
+          null,
+          3,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          3,
+          null,
+          1,
+          null,
+          3,
+          2,
+          1,
+          null,
+          2,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          3,
+          null,
+          1,
+          null,
+          3,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          2,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          1,
+          null,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          3,
+          null,
+          1,
+          null,
+          3,
+          1,
+          1,
+          null,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          1,
+          null,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 13, 4, 15, 7]": {
+            "[:then, 1, 14, 6, 14, 139]": 1,
+            "[:else, 2, 13, 4, 15, 7]": 4
+          },
+          "[:if, 3, 16, 4, 18, 7]": {
+            "[:then, 4, 17, 6, 17, 75]": 1,
+            "[:else, 5, 16, 4, 18, 7]": 4
+          },
+          "[:if, 6, 20, 4, 22, 7]": {
+            "[:then, 7, 21, 6, 21, 44]": 1,
+            "[:else, 8, 20, 4, 22, 7]": 4
+          },
+          "[:if, 9, 23, 4, 25, 7]": {
+            "[:then, 10, 24, 6, 24, 40]": 1,
+            "[:else, 11, 23, 4, 25, 7]": 4
+          },
+          "[:unless, 12, 70, 6, 72, 9]": {
+            "[:else, 13, 70, 6, 72, 9]": 1,
+            "[:then, 14, 71, 8, 71, 72]": 1
+          },
+          "[:if, 15, 69, 4, 76, 7]": {
+            "[:then, 16, 70, 6, 73, 23]": 2,
+            "[:else, 17, 75, 6, 75, 60]": 1
+          },
+          "[:if, 18, 86, 6, 88, 9]": {
+            "[:then, 19, 87, 8, 87, 58]": 1,
+            "[:else, 20, 86, 6, 88, 9]": 2
+          },
+          "[:if, 21, 85, 4, 92, 7]": {
+            "[:then, 22, 86, 6, 89, 23]": 3,
+            "[:else, 23, 91, 6, 91, 60]": 1
+          },
+          "[:if, 24, 102, 6, 104, 9]": {
+            "[:then, 25, 103, 8, 103, 41]": 1,
+            "[:else, 26, 102, 6, 104, 9]": 1
+          },
+          "[:if, 27, 101, 4, 108, 7]": {
+            "[:then, 28, 102, 6, 105, 23]": 2,
+            "[:else, 29, 107, 6, 107, 60]": 1
+          },
+          "[:if, 30, 118, 6, 124, 9]": {
+            "[:then, 31, 119, 8, 123, 75]": 1,
+            "[:else, 32, 118, 6, 124, 9]": 1
+          },
+          "[:if, 33, 117, 4, 128, 7]": {
+            "[:then, 34, 118, 6, 125, 23]": 2,
+            "[:else, 35, 127, 6, 127, 60]": 1
+          },
+          "[:if, 36, 137, 4, 141, 7]": {
+            "[:then, 37, 138, 6, 138, 23]": 1,
+            "[:else, 38, 140, 6, 140, 60]": 1
+          },
+          "[:unless, 39, 150, 4, 153, 7]": {
+            "[:else, 40, 150, 4, 153, 7]": 2,
+            "[:then, 41, 151, 6, 152, 12]": 1
+          },
+          "[:if, 42, 154, 4, 158, 7]": {
+            "[:then, 43, 155, 6, 155, 47]": 1,
+            "[:else, 44, 157, 6, 157, 71]": 1
+          },
+          "[:\"&.\", 45, 167, 4, 167, 17]": {
+            "[:then, 46, 167, 4, 167, 17]": 1,
+            "[:else, 47, 167, 4, 167, 17]": 1
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/users_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          4,
+          4,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          21,
+          21,
+          20,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          4,
+          3,
+          2,
+          1,
+          1,
+          null,
+          1,
+          null,
+          2,
+          2,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          4,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 9, 4, 13, 7]": {
+            "[:then, 1, 10, 6, 10, 105]": 1,
+            "[:else, 2, 12, 6, 12, 60]": 1
+          },
+          "[:if, 3, 18, 4, 22, 7]": {
+            "[:then, 4, 19, 6, 19, 11]": 2,
+            "[:else, 5, 21, 6, 21, 71]": 2
+          },
+          "[:if, 6, 27, 4, 34, 7]": {
+            "[:then, 7, 28, 6, 31, 7]": 20,
+            "[:else, 8, 33, 6, 33, 73]": 1
+          },
+          "[:if, 9, 38, 4, 44, 7]": {
+            "[:then, 10, 39, 6, 41, 7]": 1,
+            "[:else, 11, 43, 6, 43, 68]": 1
+          },
+          "[:if, 12, 51, 6, 54, 9]": {
+            "[:then, 13, 52, 8, 53, 14]": 1,
+            "[:else, 14, 51, 6, 54, 9]": 1
+          },
+          "[:if, 15, 50, 4, 56, 7]": {
+            "[:then, 16, 51, 6, 55, 59]": 2,
+            "[:else, 17, 50, 4, 56, 7]": 1
+          },
+          "[:if, 18, 58, 6, 61, 9]": {
+            "[:then, 19, 59, 8, 60, 14]": 1,
+            "[:else, 20, 58, 6, 61, 9]": 1
+          },
+          "[:if, 21, 57, 4, 63, 7]": {
+            "[:then, 22, 58, 6, 62, 57]": 2,
+            "[:else, 23, 57, 4, 63, 7]": 0
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/user_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/comment.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/post_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/homepage_controller.rb": {
+        "lines": [
+          0,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1639962581
+  },
+  "specs": {
+    "coverage": {
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/homepage_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/posts_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/users_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          4,
+          4,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          4,
+          4,
+          3,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          2,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
+          4,
+          3,
+          2,
+          1,
+          1,
+          null,
+          1,
+          null,
+          2,
+          2,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          4,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 9, 4, 13, 7]": {
+            "[:then, 1, 10, 6, 10, 105]": 1,
+            "[:else, 2, 12, 6, 12, 60]": 1
+          },
+          "[:if, 3, 18, 4, 22, 7]": {
+            "[:then, 4, 19, 6, 19, 11]": 2,
+            "[:else, 5, 21, 6, 21, 71]": 2
+          },
+          "[:if, 6, 27, 4, 34, 7]": {
+            "[:then, 7, 28, 6, 31, 7]": 3,
+            "[:else, 8, 33, 6, 33, 73]": 1
+          },
+          "[:if, 9, 38, 4, 44, 7]": {
+            "[:then, 10, 39, 6, 41, 7]": 1,
+            "[:else, 11, 43, 6, 43, 68]": 1
+          },
+          "[:if, 12, 51, 6, 54, 9]": {
+            "[:then, 13, 52, 8, 53, 14]": 1,
+            "[:else, 14, 51, 6, 54, 9]": 1
+          },
+          "[:if, 15, 50, 4, 56, 7]": {
+            "[:then, 16, 51, 6, 55, 59]": 2,
+            "[:else, 17, 50, 4, 56, 7]": 1
+          },
+          "[:if, 18, 58, 6, 61, 9]": {
+            "[:then, 19, 59, 8, 60, 14]": 1,
+            "[:else, 20, 58, 6, 61, 9]": 1
+          },
+          "[:if, 21, 57, 4, 63, 7]": {
+            "[:then, 22, 58, 6, 62, 57]": 2,
+            "[:else, 23, 57, 4, 63, 7]": 0
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/user_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/mailers/user_mailer.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/homepage_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1635990120
+  },
+  "features": {
+    "coverage": {
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/homepage_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/posts_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          2,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/users_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          0,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          0,
+          null,
+          null,
+          null,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 9, 4, 13, 7]": {
+            "[:then, 1, 10, 6, 10, 105]": 0,
+            "[:else, 2, 12, 6, 12, 60]": 0
+          },
+          "[:if, 3, 18, 4, 22, 7]": {
+            "[:then, 4, 19, 6, 19, 11]": 0,
+            "[:else, 5, 21, 6, 21, 71]": 2
+          },
+          "[:if, 6, 27, 4, 34, 7]": {
+            "[:then, 7, 28, 6, 31, 7]": 0,
+            "[:else, 8, 33, 6, 33, 73]": 2
+          },
+          "[:if, 9, 38, 4, 44, 7]": {
+            "[:then, 10, 39, 6, 41, 7]": 0,
+            "[:else, 11, 43, 6, 43, 68]": 0
+          },
+          "[:if, 12, 51, 6, 54, 9]": {
+            "[:then, 13, 52, 8, 53, 14]": 0,
+            "[:else, 14, 51, 6, 54, 9]": 0
+          },
+          "[:if, 15, 50, 4, 56, 7]": {
+            "[:then, 16, 51, 6, 55, 59]": 0,
+            "[:else, 17, 50, 4, 56, 7]": 0
+          },
+          "[:if, 18, 58, 6, 61, 9]": {
+            "[:then, 19, 59, 8, 60, 14]": 0,
+            "[:else, 20, 58, 6, 61, 9]": 0
+          },
+          "[:if, 21, 57, 4, 63, 7]": {
+            "[:then, 22, 58, 6, 62, 57]": 0,
+            "[:else, 23, 57, 4, 63, 7]": 0
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/mailers/user_mailer.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/user_serializer.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/homepage_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1635990968
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/post.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/comment.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/models/user.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/helpers/homepage_helper.rb": {
+        "lines": [
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/users_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          2,
+          2,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          32,
+          32,
+          31,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          2,
+          2,
+          0,
+          0,
+          null,
+          2,
+          null,
+          2,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          2,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 9, 4, 13, 7]": {
+            "[:then, 1, 10, 6, 10, 105]": 0,
+            "[:else, 2, 12, 6, 12, 60]": 0
+          },
+          "[:if, 3, 18, 4, 22, 7]": {
+            "[:then, 4, 19, 6, 19, 11]": 1,
+            "[:else, 5, 21, 6, 21, 71]": 1
+          },
+          "[:if, 6, 27, 4, 34, 7]": {
+            "[:then, 7, 28, 6, 31, 7]": 31,
+            "[:else, 8, 33, 6, 33, 73]": 1
+          },
+          "[:if, 9, 38, 4, 44, 7]": {
+            "[:then, 10, 39, 6, 41, 7]": 0,
+            "[:else, 11, 43, 6, 43, 68]": 0
+          },
+          "[:if, 12, 51, 6, 54, 9]": {
+            "[:then, 13, 52, 8, 53, 14]": 0,
+            "[:else, 14, 51, 6, 54, 9]": 2
+          },
+          "[:if, 15, 50, 4, 56, 7]": {
+            "[:then, 16, 51, 6, 55, 59]": 2,
+            "[:else, 17, 50, 4, 56, 7]": 0
+          },
+          "[:if, 18, 58, 6, 61, 9]": {
+            "[:then, 19, 59, 8, 60, 14]": 0,
+            "[:else, 20, 58, 6, 61, 9]": 0
+          },
+          "[:if, 21, 57, 4, 63, 7]": {
+            "[:then, 22, 58, 6, 62, 57]": 0,
+            "[:else, 23, 57, 4, 63, 7]": 2
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/user_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/homepage_controller.rb": {
+        "lines": [
+          1,
+          null,
+          null
+        ],
+        "branches": {
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/controllers/api/v1/posts_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          4,
+          4,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          2,
+          null,
+          2,
+          0,
+          0,
+          null,
+          0,
+          null,
+          2,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          0,
+          null,
+          1,
+          1,
+          0,
+          null,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          1,
+          null,
+          0,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          2,
+          null,
+          0,
+          null,
+          2,
+          2,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          1,
+          null,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ],
+        "branches": {
+          "[:if, 0, 13, 4, 15, 7]": {
+            "[:then, 1, 14, 6, 14, 139]": 0,
+            "[:else, 2, 13, 4, 15, 7]": 0
+          },
+          "[:if, 3, 16, 4, 18, 7]": {
+            "[:then, 4, 17, 6, 17, 75]": 0,
+            "[:else, 5, 16, 4, 18, 7]": 0
+          },
+          "[:if, 6, 20, 4, 22, 7]": {
+            "[:then, 7, 21, 6, 21, 44]": 0,
+            "[:else, 8, 20, 4, 22, 7]": 0
+          },
+          "[:if, 9, 23, 4, 25, 7]": {
+            "[:then, 10, 24, 6, 24, 40]": 0,
+            "[:else, 11, 23, 4, 25, 7]": 0
+          },
+          "[:unless, 12, 70, 6, 72, 9]": {
+            "[:else, 13, 70, 6, 72, 9]": 0,
+            "[:then, 14, 71, 8, 71, 72]": 0
+          },
+          "[:if, 15, 69, 4, 76, 7]": {
+            "[:then, 16, 70, 6, 73, 23]": 0,
+            "[:else, 17, 75, 6, 75, 60]": 2
+          },
+          "[:if, 18, 86, 6, 88, 9]": {
+            "[:then, 19, 87, 8, 87, 58]": 0,
+            "[:else, 20, 86, 6, 88, 9]": 1
+          },
+          "[:if, 21, 85, 4, 92, 7]": {
+            "[:then, 22, 86, 6, 89, 23]": 1,
+            "[:else, 23, 91, 6, 91, 60]": 0
+          },
+          "[:if, 24, 102, 6, 104, 9]": {
+            "[:then, 25, 103, 8, 103, 41]": 1,
+            "[:else, 26, 102, 6, 104, 9]": 0
+          },
+          "[:if, 27, 101, 4, 108, 7]": {
+            "[:then, 28, 102, 6, 105, 23]": 1,
+            "[:else, 29, 107, 6, 107, 60]": 0
+          },
+          "[:if, 30, 118, 6, 124, 9]": {
+            "[:then, 31, 119, 8, 123, 75]": 0,
+            "[:else, 32, 118, 6, 124, 9]": 0
+          },
+          "[:if, 33, 117, 4, 128, 7]": {
+            "[:then, 34, 118, 6, 125, 23]": 0,
+            "[:else, 35, 127, 6, 127, 60]": 0
+          },
+          "[:if, 36, 137, 4, 141, 7]": {
+            "[:then, 37, 138, 6, 138, 23]": 2,
+            "[:else, 38, 140, 6, 140, 60]": 0
+          },
+          "[:unless, 39, 150, 4, 153, 7]": {
+            "[:else, 40, 150, 4, 153, 7]": 0,
+            "[:then, 41, 151, 6, 152, 12]": 0
+          },
+          "[:if, 42, 154, 4, 158, 7]": {
+            "[:then, 43, 155, 6, 155, 47]": 0,
+            "[:else, 44, 157, 6, 157, 71]": 0
+          },
+          "[:\"&.\", 45, 167, 4, 167, 17]": {
+            "[:then, 46, 167, 4, 167, 17]": 0,
+            "[:else, 47, 167, 4, 167, 17]": 0
+          }
+        }
+      },
+      "/Users/qiwen/Desktop/NR/CU/2021Fall/COMSW4995ESaaS/project/LionHelp/app/serializers/post_serializer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1639962636
+  }
+}
